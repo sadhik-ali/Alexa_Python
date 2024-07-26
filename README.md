@@ -25,7 +25,7 @@ This project is a simple virtual assistant similar to Amazon Alexa, built using 
 -  Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/sadhik-ali/Alexa_Python.git
 cd your-repo-name
 ```
 
